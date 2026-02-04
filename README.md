@@ -1,4 +1,4 @@
-## Hi there, I'm Ana Gil Molina 👋
+## Hi there, I'm Ana Gil Molina
 
 ### Mathematician & AI Specialist
 I bridge the gap between **complex mathematical modeling** and **practical AI deployment**. With a background in Mathematics and a Master's in Artificial Intelligence, I specialize in architecting and fine-tuning advanced models to solve high-impact problems.
